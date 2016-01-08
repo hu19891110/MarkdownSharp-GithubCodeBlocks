@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Takenet.MarkDocs</id>
+    <version>0.1.0</version>
+    <title>MarkdownSharp-GithubCodeBlocks</title>
+    <authors>Jeff Atwood, John Gruber</authors>
+    <owners>KyleGobel, RafaelRomao</owners>
+    <projectUrl>http://github.com/takenet/MarkdownSharp-GithubCodeBlocks</projectUrl>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Markdown is a text-to-HTML conversion tool for web writers</description>
+    <copyright>Copyright © 2015</copyright>
+    <tags>markdown</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\MarkdownSharp-GithubCodeBlocks.dll" target="lib\net451\MarkdownSharp-GithubCodeBlocks.dll" />
+  </files>
+</package>
