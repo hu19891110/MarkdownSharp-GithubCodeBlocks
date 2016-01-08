@@ -1,5 +1,0 @@
-D:\Takenet\MarkdownSharp-GithubCodeBlocks\src\obj\Debug\MarkdownSharp-GithubCodeBlocks.csprojResolveAssemblyReference.cache
-D:\Takenet\MarkdownSharp-GithubCodeBlocks\src\bin\Debug\MarkdownSharp-GithubCodeBlocks.dll
-D:\Takenet\MarkdownSharp-GithubCodeBlocks\src\bin\Debug\MarkdownSharp-GithubCodeBlocks.pdb
-D:\Takenet\MarkdownSharp-GithubCodeBlocks\src\obj\Debug\MarkdownSharp-GithubCodeBlocks.dll
-D:\Takenet\MarkdownSharp-GithubCodeBlocks\src\obj\Debug\MarkdownSharp-GithubCodeBlocks.pdb
