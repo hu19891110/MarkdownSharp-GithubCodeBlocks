@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>Takenet.MarkDocs</id>
+    <id>MarkdownSharp-GithubCodeBlocks</id>
     <version>0.1.0</version>
     <title>MarkdownSharp-GithubCodeBlocks</title>
     <authors>Jeff Atwood, John Gruber</authors>
