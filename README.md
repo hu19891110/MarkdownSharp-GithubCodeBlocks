@@ -16,7 +16,7 @@ If you're unfamiliar with MarkdownSharp, it's a markdown parser, which was porte
 My light modifications allow this
 
 <pre lang="no-highlight"><code>
-```csharp
+```cs
 public void Main()
 {
   Console.WriteLine("Github Style Code blocks");
